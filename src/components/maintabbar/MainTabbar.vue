@@ -12,7 +12,7 @@
 					  <img src="~assets/img/tabbar/home2.svg" />
 				  </template>
 			  	  <template #item-text>
-			  		  <div>首页</div>
+			  		  <div>首页1</div>
 			  	  </template>
 		  </tar-bar-item>
 		  <tar-bar-item path="/category" activeColor="blue">
